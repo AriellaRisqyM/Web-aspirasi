@@ -30,6 +30,7 @@ $ php artisan serve
 ## Author
 
 **web-aspirasi** © [vinandra](https://github.com/vinandra).  
-Authored and maintained by andra.
+Authored and maintained by andra & ariel.
 
 > GitHub [@vinandra](https://github.com/vinandra)
+> GitHub [@ariel](https://github.com/AriellaRisqyM)
